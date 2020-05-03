@@ -1,2 +1,4 @@
-# vision
-Metro Vision
+졸업 프로젝트
+==========
+## <Vision>
+시각장애인을 위한 메트로 AI 청각 네비게이션
