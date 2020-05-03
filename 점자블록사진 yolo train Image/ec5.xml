@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>ec5.jpg</filename>
+	<path>C:\Users\Jun\labelimg\labelImg-master\data\ec5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>30</ymin>
+			<xmax>292</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

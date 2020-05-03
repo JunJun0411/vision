@@ -1,0 +1,7 @@
+dot
+line
+person
+pillar
+stairs
+elevator
+escalator
